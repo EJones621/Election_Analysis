@@ -32,7 +32,7 @@ The analysis that was used for this election is something that can be used for a
 
 Two examples for modifying the script to fit for a different election are:
 * Update the script with a new output file name.
-* 
+* Ensure the new .csv files contains a unique ID for each casted vote, the county, the candidate who received the votes, and only contains results for the same election.
 
 
 ## Extra Information
@@ -42,7 +42,7 @@ Here is a screenshot of the final analysis via Visual Code:
 
 
 ##### The script to run the election can be found here: 
-[PyPoll.py](https://github.com/EJones621/Election_Analysis/blob/main/PyPoll.py)
+[PyPoll_Challenge.py](https://github.com/EJones621/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
 ##### The elections results for the audit can be found here:
 [Election_Analysis](https://github.com/EJones621/Election_Analysis/blob/main/Analysis/election_analysis.txt)
