@@ -37,10 +37,12 @@ Two examples for modifying the script to fit for a different election are:
 
 ## Extra Information
 Here is a screenshot of the final analysis via Visual Code:
+
 ![Alt text](https://github.com/EJones621/Election_Analysis/blob/main/Resources/Election_Results.png)
 
 
 ##### The script to run the election can be found here: 
-
+[PyPoll.py](https://github.com/EJones621/Election_Analysis/blob/main/PyPoll.py)
 
 ##### The elections results for the audit can be found here:
+[Election_Analysis](https://github.com/EJones621/Election_Analysis/blob/main/Analysis/election_analysis.txt)
