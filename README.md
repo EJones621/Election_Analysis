@@ -23,3 +23,24 @@ Now let's address the requested calculations.
   * Diana DeGette: 73.8% and 272,892 votes.
   * Charles Casper Stockham: 23.0% and 85,213 votes.
   * Raymon Anthony Doane: 3.1% and 11,606 votes.
+* And the winner is...Diana DeGette who received 272,892 votes which is 73.8% of the total vote.
+
+## Election Audit Summary
+The analysis that was used for this election is something that can be used for any election and not limited to three specific counties in Colorado. The resources that were used for this project were:
+* The data source itself (election_results.csv)
+* The software to complete the script (Python 3.7.9 which was used on Visual Code 1.51.1)
+
+Two examples for modifying the script to fit for a different election are:
+* Update the script with a new output file name.
+* 
+
+
+## Extra Information
+Here is a screenshot of the final analysis via Visual Code:
+[Election_Analysis](https://github.com/EJones621/Election_Analysis/blob/main/Resources/Election_Results.png)
+
+
+##### The script to run the election can be found here: 
+
+
+##### The elections results for the audit can be found here:
