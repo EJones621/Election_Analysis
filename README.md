@@ -1,5 +1,5 @@
 # Election_Analysis
-Module 3: PyPoll with Python
+PyPoll with Python
 ## Overview of Election Audit
 During this module, the Colorado Board of Elections requested an audit of a recent local congressional election that took place in Arapahoe, Denver, and Jefferson counties. In this analysis they have requested calculations for:
 1. Total number of votes casted
